@@ -6,11 +6,9 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
+      href: https://github.com/fjbeltrantapia 
     - icon: twitter-x
-      href: @FJBeltranTapia
-    - icon: bsky
-      href: @fjbeltrantapia.bsky.social
+      href: https://twitter.com/FJBeltranTapia
     - icon: envelope
       text: Email
       href: "mailto:francisco.beltran.tapia@ntnu.no"  
