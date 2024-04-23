@@ -1,0 +1,67 @@
+# This file controls the settings for your Quarto template
+
+# website settings
+website:
+  title: "Francisco J. Beltrán Tapia"                       # Your name
+  description: "Economic history / Historical demography"   # A brief slogan (optional)
+  image: img/fran_pic.jpg                                   # Your picture
+  favicon: img/favicon_dark.png                             # Favicon
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    
+    # your sub-pages
+    left:
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Bio"
+        href: bio/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: bank
+        href: https://www.ntnu.edu/employees/francisco.beltran.tapia
+      - icon: twitter
+        href: https://twitter.com/FJBeltranTapia
+      - icon: envelope
+        aria-label: email
+        href: "mailto:francisco.beltran.tapia@ntnu.no"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - sandstone
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    link-external-newwindow: true
