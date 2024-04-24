@@ -1,6 +1,6 @@
-# Quarto Template for personal website
+# Personal website (Quarto)
 
-Information to update the website structured around:
+Information structured around:
 -Publications
 -Projects
 -Teaching
