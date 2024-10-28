@@ -60,8 +60,9 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-# - sandstone
-      - html/styles.scss
+      - sandstone
+      # - html/styles.scss
+    linkcolor: $blue 
     toc: false
     code-link: true
     anchor-sections: true
