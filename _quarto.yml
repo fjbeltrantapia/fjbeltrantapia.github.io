@@ -14,7 +14,11 @@ website:
     # your sub-pages
     left:
       - text: "Publications"
-        href: publications/index.qmd
+        menu:
+          - publications/index1.qmd
+          - publications/index2.qmd
+          - publications/index3.qmd
+          - publications/index4.qmd
       - text: "Projects"
         href: projects/index.qmd
       - text: "Teaching"

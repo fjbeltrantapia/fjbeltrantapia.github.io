@@ -22,4 +22,13 @@ I am a Professor of Economic History at the [Norwegian University of Science and
 My teaching seeks to promote the use of quantitative methods among historians.
 
 ::: {#about-block}
+## Most recent work
+:::
+
+:::{.column-body}
+[What was in a name? Culture, naming practices and literacy](https://cepr.org/publications/dp19625) (Working Paper with Francisco J. Marco-Gracia)
+
+[Culture, economic stress and missing girls](https://cepr.org/publications/dp18761) (Working Paper with Viktor Malein and Tamar Matiashvili)
+
+[Son preference, maternal care and sex ratios at birth](https://cepr.org/publications/dp18368) (Working Paper with Rebeca Echavarri)
 :::
