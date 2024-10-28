@@ -2,16 +2,14 @@
 
 # website settings
 website:
-  title: "Francisco J. Beltrán Tapia"                       # Your name
-  description: "Economic history / Historical demography"   # A brief slogan (optional)
-  image: img/fran_pic.jpg                                   # Your picture
-  favicon: img/favicon_dark.png                             # Favicon
+  title: "Francisco J. Beltrán Tapia"                       
+  description: "Economic history / Historical demography"   
+  image: img/fran_pic.jpg                                   
+  favicon: img/favicon_dark.png                             
   
-  # start of the navigation bar at the top of the website
+  # navigation bar at the top of the website
   navbar:
     pinned: true
-    
-    # your sub-pages
     left:
       - text: "Publications"
         menu:
@@ -26,7 +24,7 @@ website:
       - text: "Bio"
         href: bio/bio.qmd
     
-    # your social media handles
+    # social media handles
     right:
       - icon: bank
         href: https://www.ntnu.edu/employees/francisco.beltran.tapia
