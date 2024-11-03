@@ -8,8 +8,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/fjbeltrantapia 
-    - icon: twitter
-      href: https://twitter.com/FJBeltranTapia
+    - text: "{{< iconify simple-icons bluesky >}}"
+      href: https://bsky.app/profile/fjbeltrantapia.bsky.social 
+    # - icon: twitter
+    #   href: https://twitter.com/FJBeltranTapia
     - icon: envelope
       text: Email
       href: "mailto:francisco.beltran.tapia@ntnu.no"  

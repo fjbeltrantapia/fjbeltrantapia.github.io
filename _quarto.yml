@@ -28,11 +28,13 @@ website:
     right:
       - icon: bank
         href: https://www.ntnu.edu/employees/francisco.beltran.tapia
-      - icon: twitter
-        href: https://twitter.com/FJBeltranTapia
+      # - icon: twitter
+      # href: https://twitter.com/FJBeltranTapia
       - icon: envelope
         aria-label: email
-        href: "mailto:francisco.beltran.tapia@ntnu.no"  
+        href: "mailto:francisco.beltran.tapia@ntnu.no"
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/fjbeltrantapia.bsky.social
   
   
 
