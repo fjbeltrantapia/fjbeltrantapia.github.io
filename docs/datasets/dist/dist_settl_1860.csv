@@ -1,0 +1,465 @@
+partido,province,ayunt,cedulas,ciudades,villas,lugares,aldeas,grupos
+Aguilar,Córdoba,3,5353,0,3,0,2,0
+Alba de Tormes,Salamanca,47,4893,0,5,54,0,3
+Albacete,Albacete,5,5899,0,5,2,3,1
+Albaida,Valencia,29,7024,0,7,22,0,2
+Albarracín,Teruel,42,6152,1,4,37,4,37
+Alberique,Valencia,15,3317,0,4,11,0,0
+Albocázer,Castellón,15,5159,0,10,5,0,37
+Alburquerque,Badajoz,6,4623,0,6,0,0,3
+Albuñol,Granada,14,6582,0,3,15,12,1
+Alcalá de Guadaira,Sevilla,4,5250,0,4,0,1,3
+Alcalá de Henares,Madrid,39,7490,1,42,7,0,8
+Alcalá la Real,Jaén,4,7816,1,3,0,13,1
+Alcaraz,Albacete,19,7566,1,17,1,30,3
+Alcañices,Zamora,43,6961,0,6,100,0,41
+Alcañiz,Teruel,13,5759,1,8,5,0,29
+Alcira,Valencia,13,8447,0,4,9,0,1
+Alcoy,Alicante,4,7340,1,2,1,0,0
+Alcántara,Cáceres,8,5258,0,6,2,0,8
+Alcázar de San Juan,Ciudad Real,8,9295,0,8,0,1,0
+Alfaro,Logroño,3,2266,1,2,0,0,6
+Algeciras,Cádiz,2,6208,2,0,0,1,7
+Alhama,Granada,12,4143,1,3,8,2,1
+Aliaga,Teruel,34,4548,0,14,20,1,58
+Alicante,Alicante,5,9768,1,4,0,0,0
+Allariz,Orense,9,8006,0,4,242,104,28
+Almadén,Ciudad Real,8,4181,0,8,0,3,0
+Almagro,Ciudad Real,6,5671,1,5,0,1,0
+Almansa,Albacete,4,4437,1,3,0,1,2
+Almazán,Soria,62,7140,0,16,88,0,804
+Almendralejo,Badajoz,14,8637,1,13,0,0,2
+Almería,Almería,12,11070,1,3,8,3,1
+Almodóvar del Campo,Ciudad Real,19,6774,0,17,2,14,2
+Almunia de Doña Godina,Zaragoza,31,8739,0,14,18,3,27
+Amurrio,Álava,12,3906,0,9,76,6,3
+Andújar,Jaén,10,8577,1,9,0,1,0
+Antequera,Málaga,6,8409,1,0,5,0,0
+Aoiz,Navarra,66,9923,1,41,238,0,112
+Aracena,Huelva,30,11612,0,30,0,51,14
+Aranda de Duero,Burgos,35,6850,0,33,4,4,6
+Archidona,Málaga,8,5995,0,8,0,0,0
+Arcos,Cádiz,6,7793,1,5,0,0,9
+Arenas de San Pedro,Ávila,19,6522,0,16,5,0,16
+Arenys de Mar,Barcelona,23,7553,0,9,10,0,2
+Arnedo,Logroño,21,5416,1,14,6,23,406
+Arzúa,Coruña,10,9065,0,2,8,1340,18
+Arévalo,Ávila,59,6539,0,16,54,0,8
+Astorga,León,25,11701,1,11,132,13,19
+Astudillo,Palencia,24,5190,0,23,1,3,28
+Ateca,Zaragoza,39,8131,0,14,25,0,47
+Atienza,Guadalajara,51,5275,0,7,59,0,24
+Avilés,Oviedo,6,6351,0,2,219,0,2
+Ayamonte,Huelva,10,5271,1,9,0,0,12
+Ayora,Valencia,8,3917,0,6,2,2,0
+Azpeitia,Guipuzcoa,23,6672,0,21,20,0,2
+Badajoz,Badajoz,3,5759,1,2,0,0,0
+Baena,Córdoba,3,5306,0,3,0,1,0
+Baeza,Jaén,9,9221,1,8,0,0,1
+Balaguer,Lérida,49,12250,1,12,95,5,13
+Baltanás,Palencia,27,4596,0,27,0,1,27
+Bande,Orense,7,6957,0,0,210,60,46
+Barbastro,Huesca,35,7505,1,6,40,6,299
+Barcelona,Barcelona,13,55493,1,2,12,0,7
+Barco de Ávila,Ávila,29,4447,0,3,73,0,11
+Baza,Granada,7,7638,1,6,0,6,5
+Becerrea,Lugo,6,5376,0,5,2,500,7
+Belchite,Zaragoza,21,4950,0,7,14,0,15
+Belmonte,Cuenca,26,8628,0,26,0,3,4
+Belmonte (Asturias),Oviedo,5,7046,0,5,245,0,166
+Belorado,Burgos,37,4551,0,35,24,1,10
+Benabarre,Huesca,52,5863,0,13,109,58,62
+Benavente,Zamora,58,8223,0,6,79,0,123
+Berga,Barcelona,38,7519,0,6,13,6,3
+Berja,Almería,6,9314,0,3,4,13,0
+Bermillo de Sayago,Zamora,41,7284,0,4,49,2,1
+Betanzos,Coruña,10,9815,1,1,8,956,8
+Bilbao,Vizcaya,28,11141,0,3,34,155,3
+Boltaña,Huesca,58,5378,0,9,169,108,11
+Borja,Zaragoza,25,6959,1,13,11,1,27
+Bribiesca,Burgos,55,7187,1,84,2,0,3
+Brihuega,Guadalajara,51,6282,0,48,3,0,112
+Bujalance,Córdoba,5,4014,1,4,0,0,0
+Burgo de Osma,Soria,78,8353,1,37,78,7,831
+Burgos,Burgos,106,14112,1,43,103,2,9
+Béjar,Salamanca,40,8524,1,5,39,0,1
+Cabra,Córdoba,4,5363,1,3,0,0,1
+Cabuérniga,Santander,7,2684,0,1,31,16,0
+Calahorra,Logroño,5,3636,1,4,0,0,106
+Calamocha,Teruel,31,4725,0,2,30,0,60
+Calatayud,Zaragoza,34,9412,1,13,22,3,52
+Caldas,Pontevedra,9,9257,0,2,321,35,20
+Callosa de Ensarriá,Alicante,18,7616,0,10,8,0,9
+Cambados,Pontevedra,10,10236,0,10,333,129,0
+Campillos,Málaga,10,5869,0,6,4,0,1
+Cangas de Onís,Oviedo,6,7042,0,4,173,0,123
+Cangas de Tineo,Oviedo,4,8883,0,3,491,0,21
+Canjáyar,Almería,19,7954,0,7,13,0,2
+Caravaca,Murcia,4,8888,1,3,0,6,0
+Carballino,Orense,8,10873,0,3,376,182,31
+Carballo,Coruña,7,9792,0,4,4,946,7
+Carlet,Valencia,11,5043,0,6,5,0,2
+Carmona,Sevilla,2,5723,1,1,0,0,7
+Carrión de los Condes,Palencia,39,5435,0,26,27,0,8
+Cartagena,Murcia,3,14187,1,2,7,11,4
+Casas-Ibáñez,Albacete,22,7260,0,15,7,16,2
+Caspe,Zaragoza,10,6548,1,7,2,1,10
+Castellote,Teruel,23,5931,0,17,6,3,4
+Castellón,Castellón,8,8404,1,5,2,0,32
+Castro del Río,Córdoba,2,4105,0,2,0,0,0
+Castro-Urdiales,Santander,4,2164,0,1,8,24,0
+Castrojeriz,Burgos,41,5955,0,33,15,0,6
+Castropol,Oviedo,7,9148,0,7,349,0,1
+Castuera,Badajoz,11,8306,0,11,0,0,8
+Cazalla de la Sierra,Sevilla,9,7616,0,9,0,1,32
+Cazorla,Jaén,8,6142,1,7,0,11,1
+Cañete,Cuenca,42,6481,0,16,26,7,10
+Cebreros,Ávila,20,5799,0,14,10,0,7
+Celanova,Orense,12,10045,0,2,333,170,44
+Cervera,Lérida,42,8860,1,8,98,3,5
+Cervera de Pisuerga,Palencia,50,6725,0,15,153,11,25
+Cervera de Río Alhama,Logroño,8,3224,0,6,2,4,122
+Chantada,Lugo,7,9511,0,2,5,1198,13
+Chelva,Valencia,19,6671,0,11,8,28,1
+Chiclana,Cádiz,3,6077,0,3,0,1,24
+Chinchilla,Albacete,12,6135,1,10,2,33,0
+Chinchón,Madrid,17,9762,0,16,1,0,8
+Chiva,Valencia,10,5461,0,5,5,0,0
+Cieza,Murcia,9,7223,0,9,0,2,1
+Cifuentes,Guadalajara,46,4673,0,35,16,0,392
+Ciudad Real,Ciudad Real,8,6393,1,7,0,3,1
+Ciudad-Rodrigo,Salamanca,63,10495,1,22,49,0,3
+Cocentaina,Alicante,22,5950,0,11,13,6,0
+Cogolludo,Guadalajara,43,4599,0,32,23,0,15
+Colmenar,Málaga,10,7206,0,7,3,0,9
+Colmenar Viejo,Madrid,30,5963,0,32,6,0,9
+Corcubión,Coruña,8,6908,0,6,3,400,0
+Coria,Cáceres,17,5111,1,1,15,0,7
+Coruña,Coruña,7,13524,1,0,6,561,1
+Coín,Málaga,5,6307,0,5,0,0,26
+Cuenca,Cuenca,63,9373,1,21,42,18,9
+Cuéllar,Segovia,52,6962,0,6,52,0,19
+Cáceres,Cáceres,9,8649,0,4,5,0,2
+Cádiz,Cádiz,1,17151,1,0,0,0,0
+Córdoba,Córdoba,2,11894,1,1,0,1,1
+Daimiel,Ciudad Real,4,5055,0,4,0,1,0
+Daroca,Zaragoza,48,7956,1,8,40,0,50
+Dolores,Alicante,17,7615,0,9,8,0,40
+Don Benito,Badajoz,9,5797,1,6,2,0,3
+Durango,Vizcaya,29,7209,0,5,23,102,4
+Dénia,Alicante,19,8021,1,5,14,1,15
+Ejea de los Caballeros,Zaragoza,21,4684,0,6,16,5,7
+Elche,Alicante,3,6914,0,2,1,1,0
+Enguera,Valencia,12,5807,0,7,5,0,0
+Entrambas-Aguas,Santander,19,6109,0,6,63,6,1
+Escalona,Toledo,18,4814,0,18,2,0,2
+Estella,Navarra,71,14229,2,36,109,0,59
+Estepa,Sevilla,10,6155,0,9,1,3,4
+Estepona,Málaga,5,4036,0,5,0,0,6
+Falset,Tarragona,39,8804,0,8,33,12,51
+Ferrol,Coruña,8,12037,1,2,6,879,0
+Figueres,Girona,63,14454,0,14,59,8,8
+Fonsagrada,Lugo,4,5870,0,3,1,582,3
+Fraga,Huesca,17,5949,1,4,14,3,297
+Frechilla,Palencia,32,6651,0,34,1,0,25
+Frenegal de la Sierra,Badajoz,8,6652,0,8,0,0,1
+Fuente Ovejuna,Córdoba,9,4205,0,9,0,19,2
+Fuente de Cantos,Badajoz,10,6556,0,10,0,2,3
+Fuentesaúco,Zamora,23,4979,0,19,5,0,19
+Gandesa,Tarragona,18,6848,1,14,3,1,26
+Gandia,Valencia,29,8338,1,3,25,0,2
+Garrovillas,Cáceres,12,5093,0,5,7,0,5
+Gaucín,Málaga,9,5292,0,7,2,0,13
+Getafe,Madrid,20,5625,0,19,5,0,1
+Gijón,Oviedo,2,5909,0,2,177,0,0
+Ginzo de Limia,Orense,11,7255,0,2,177,45,26
+Girona,Girona,54,13830,1,8,55,5,1
+Granada,Granada,29,24050,1,4,24,0,3
+Granadilla,Cáceres,31,6446,0,4,26,0,4
+Grandas de Salime,Oviedo,7,3214,0,7,138,0,10
+Granollers,Barcelona,31,7740,0,6,19,1,1
+Grazalema,Cádiz,5,4931,0,5,0,1,2
+Guadalajara,Guadalajara,29,5150,1,28,0,0,15
+Guadix,Granada,33,10065,1,21,11,2,5
+Guernica,Vizcaya,33,8502,0,4,31,121,3
+Gérgal,Almería,17,8013,0,11,5,3,5
+Haro,Logroño,26,6833,0,20,7,3,36
+Hellín,Albacete,5,5296,0,5,0,15,1
+Herrera del Duque,Badajoz,12,4674,0,11,1,1,6
+Hinojosa del Duque,Córdoba,6,5036,0,6,0,0,1
+Hoyos,Cáceres,17,5434,0,15,3,0,3
+Huelma,Jaén,9,4505,0,9,0,1,1
+Huelva,Huelva,8,6845,0,8,0,0,6
+Huesca,Huesca,73,9405,1,8,95,2,261
+Huete,Cuenca,30,5885,1,24,5,3,21
+Huércal-Overa,Almería,5,7306,0,5,1,3,3
+Huéscar,Granada,6,5443,1,5,0,3,6
+Híjar,Teruel,13,5735,0,7,6,0,16
+Ibiza,Baleares,6,4687,1,2,1,0,2
+Igualada,Barcelona,38,9681,0,9,35,9,8
+Illescas,Toledo,27,6204,0,26,1,0,2
+Inca,Baleares,18,13380,1,16,5,5,0
+Infiesto,Oviedo,4,7086,0,3,188,0,37
+Iznalloz,Granada,16,4975,0,12,9,1,0
+Jaca,Huesca,80,6871,1,10,157,2,43
+Jarandilla,Cáceres,18,4937,0,15,3,0,5
+Jaén,Jaén,5,7962,1,4,0,1,0
+Jijona,Alicante,8,5339,1,5,2,0,0
+Játiva,Valencia,24,7229,1,2,22,1,1
+Jérez,Cádiz,1,12069,1,0,0,0,8
+Jérez de los Caballeros,Badajoz,9,6916,1,6,2,0,0
+La Bañeza,León,33,10409,0,27,89,6,56
+La Bisbal,Girona,37,10777,0,11,37,5,5
+La Carolina,Jaén,10,5985,2,8,0,19,5
+La Cañiza,Pontevedra,4,7088,0,1,283,165,2
+La Rambla,Córdoba,7,6252,0,7,0,0,0
+La Roda,Albacete,10,8142,0,9,1,6,0
+La Vecilla,León,14,5215,0,6,138,0,5
+La-Palma,Huelva,8,4525,0,8,0,0,17
+Laguardia,Álava,31,5228,0,34,16,1,6
+Lalín,Pontevedra,6,11207,0,0,504,311,16
+Laredo,Santander,8,3166,0,5,14,12,0
+Laviana,Oviedo,7,8860,0,2,259,0,116
+Ledesma,Salamanca,52,6105,0,13,73,0,1
+Lena,Oviedo,4,6601,0,3,202,0,43
+Lerma,Burgos,53,7146,0,42,27,0,15
+León,León,24,9711,1,7,135,31,36
+Lillo,Toledo,7,5357,0,7,0,0,5
+Liria,Valencia,9,5955,0,7,2,0,5
+Llanes,Oviedo,4,6084,0,1,128,0,316
+Llerena,Badajoz,18,8254,1,17,0,2,4
+Logrosan,Cáceres,15,5468,0,9,6,5,1
+Logroño,Logroño,28,9024,1,25,4,13,126
+Loja,Granada,6,6744,1,5,2,1,1
+Lora del Río,Sevilla,8,4964,0,8,0,0,25
+Lorca,Murcia,2,12595,1,1,1,6,5
+Luarca,Oviedo,2,6828,0,2,251,0,0
+Lucena,Castellón,24,7963,0,12,11,3,57
+Lucena (Córdoba),Córdoba,2,5401,1,1,0,2,0
+Lugo,Lugo,8,12845,1,3,4,1605,5
+Lérida,Lérida,65,17717,1,8,59,1,19
+Madrid,Madrid,16,68994,0,1,0,0,0
+Madridejos,Toledo,5,5373,0,5,0,0,5
+Mahón,Baleares,5,8095,2,4,3,2,2
+Manacor,Baleares,12,12165,0,12,4,2,1
+Mancha Real,Jaén,9,5636,0,9,0,0,0
+Manresa,Barcelona,33,10597,1,6,22,0,0
+Manzanares,Ciudad Real,6,5784,0,6,0,0,0
+Marbella,Málaga,7,4835,1,6,0,0,11
+Marchena,Sevilla,3,6621,0,3,0,0,5
+Marquina,Vizcaya,14,3347,0,4,11,44,0
+Martos,Jaén,10,10297,0,10,0,0,0
+Mataró,Barcelona,17,8791,1,0,16,0,4
+Medina Sidonia,Cádiz,3,6104,1,2,0,1,41
+Medina del Campo,Valladolid,21,5269,0,13,8,6,14
+Medina del Rioseco,Valladolid,31,6928,1,30,0,0,46
+Medinaceli,Soria,35,3954,0,7,35,2,453
+Miranda de Ebro,Burgos,19,3402,0,28,50,0,3
+Moguer,Huelva,8,5527,1,7,0,1,6
+Molina,Guadalajara,75,9058,1,27,71,0,77
+Moncada,Valencia,22,5807,0,5,17,0,10
+Mondoñedo,Lugo,8,10550,1,2,4,1191,6
+Monforte,Lugo,5,9263,0,1,4,988,17
+Monovar,Alicante,5,4927,0,4,1,0,0
+Montblanc,Tarragona,30,6986,0,7,42,5,37
+Montefrío,Granada,2,3874,0,2,4,0,2
+Montilla,Córdoba,1,3937,1,0,0,1,0
+Montoro,Córdoba,4,5442,1,3,0,2,2
+Montánchez,Cáceres,14,5483,0,10,4,0,2
+Mora de Rubielos,Teruel,23,6780,0,10,13,3,2
+Morella,Castellón,24,5267,0,11,13,4,38
+Morón,Sevilla,6,8022,0,6,0,1,52
+Motilla del Palancar,Cuenca,37,9930,0,30,7,12,5
+Motril,Granada,14,9303,2,6,9,3,1
+Mula,Murcia,11,8552,0,11,0,2,5
+Murcia,Murcia,6,25089,1,5,20,1,0
+Murias de Paredes,León,14,5209,0,9,111,41,6
+Muros,Coruña,4,5572,0,1,3,310,0
+Murviedro,Valencia,24,7395,0,5,19,2,3
+Málaga,Málaga,8,29364,1,2,5,2,3
+Mérida,Badajoz,24,8079,1,13,10,0,2
+Nava del Rey,Valladolid,9,4586,0,8,1,0,5
+Navahermosa,Toledo,17,6610,0,8,10,3,4
+Navalcarnero,Madrid,20,3981,0,21,3,2,2
+Navalmoral de la Mata,Cáceres,31,5769,0,20,11,1,10
+Negreira,Coruña,5,6678,0,0,3,500,0
+Novelda,Alicante,5,5487,0,4,1,2,0
+Noya,Coruña,6,8972,0,4,3,595,1
+Nules,Castellón,9,6001,0,8,1,0,9
+Nájera,Logroño,43,6415,1,38,4,3,80
+Ocaña,Toledo,12,6931,0,12,0,1,2
+Olivenza,Badajoz,10,5489,1,9,0,4,0
+Olmedo,Valladolid,34,6412,0,16,18,5,28
+Olot,Girona,29,8666,0,6,13,1,0
+Olvera,Cádiz,8,6219,0,8,0,1,4
+Onteniente,Valencia,5,5275,0,4,1,0,1
+Orense,Orense,11,13420,1,3,332,269,91
+Orgaz,Toledo,13,7063,0,8,7,0,0
+Orgiva,Granada,31,8280,0,6,27,1,4
+Orihuela,Alicante,10,8690,1,1,8,8,0
+Ortigueira,Coruña,5,7765,0,3,2,1134,1
+Osuna,Sevilla,7,7207,0,7,0,2,0
+Oviedo,Oviedo,11,16360,1,4,540,0,29
+Padrón,Coruña,5,7263,0,2,3,428,1
+Palencia,Palencia,21,7737,1,22,2,0,15
+Palma de Mallorca,Baleares,18,23211,1,17,11,1,2
+Pamplona,Navarra,82,21066,1,29,246,0,32
+Pastrana,Guadalajara,30,5843,0,30,0,0,30
+Pego,Alicante,14,3805,0,4,21,0,0
+Peñafiel,Valladolid,30,4762,0,19,11,4,66
+Peñaranda de Bracamonte,Salamanca,34,6062,0,22,12,0,0
+Piedrabuena,Ciudad Real,16,3931,0,8,8,3,2
+Piedrahita,Ávila,66,7832,0,16,92,0,8
+Pina,Zaragoza,17,5431,0,9,9,0,12
+Plasencia,Cáceres,24,6819,1,7,15,0,6
+Ponferrada,León,26,10721,0,20,143,6,10
+Pontevedra,Pontevedra,11,13548,1,3,420,219,11
+Posadas,Córdoba,7,5491,0,7,0,15,1
+Potes,Santander,8,2689,0,1,56,42,2
+Pozoblanco,Córdoba,10,5927,0,10,0,0,3
+Pravia,Oviedo,4,8736,0,4,245,0,1
+Priego,Cuenca,43,5395,0,15,29,0,22
+Priego de Córdoba,Córdoba,4,5825,0,4,0,8,3
+Puebla de Alcocer,Badajoz,13,4803,0,11,2,1,2
+Puebla de Sanabria,Zamora,37,7744,0,8,115,0,5
+Puebla de Trives,Orense,9,6403,0,5,127,206,59
+Puente del Arzobispo,Toledo,27,7706,0,10,18,3,15
+Puente-Caldelas,Pontevedra,4,6397,0,0,175,20,0
+Puentedeume,Coruña,9,7588,0,4,5,458,0
+Puenteáreas,Pontevedra,4,10134,0,1,374,212,0
+Puerto de Santa María,Cádiz,2,7413,1,1,0,0,14
+Purchena,Almería,21,9028,1,20,0,2,1
+Quintanar de la Orden,Toledo,9,6364,0,9,0,0,1
+Quiroga,Lugo,4,4871,0,3,1,400,12
+Ramales,Santander,5,2600,0,1,38,19,11
+Redondela,Pontevedra,4,6632,0,1,181,48,0
+Reinosa,Santander,13,4428,0,4,139,22,0
+Requena,Valencia,7,6244,1,5,1,24,2
+Reus,Tarragona,18,11664,1,10,7,0,10
+Riaza,Segovia,42,4094,0,13,41,1,68
+Riaño,León,17,4512,0,31,80,2,7
+Ribadavia,Orense,9,7713,0,1,242,89,40
+Ribadeo,Lugo,5,5364,0,1,4,412,13
+Ribas,Girona,39,6322,0,7,43,7,4
+Roa,Burgos,27,4180,0,18,10,0,10
+Ronda,Málaga,12,8677,1,11,0,0,2
+Rute,Córdoba,5,5071,0,5,0,1,0
+Sacedón,Guadalajara,23,4016,0,22,3,0,56
+Sahagún,León,29,5899,0,20,76,0,65
+Salamanca,Salamanca,61,9970,1,12,58,0,2
+Salas de los Infantes,Burgos,50,6692,0,41,32,5,17
+Saldaña,Palencia,54,6991,0,25,79,1,24
+San Clemente,Cuenca,24,7251,0,21,4,15,1
+San Fernando,Cádiz,2,7262,1,1,0,0,3
+San Martín de Valdeiglesias,Madrid,11,3215,0,11,0,6,0
+San Mateo,Castellón,9,5213,0,8,1,0,20
+San Roque,Cádiz,4,5710,1,3,0,0,9
+San Sebastián,Guipuzcoa,15,8264,2,8,26,0,2
+San Vicente de la Barquera,Santander,10,4215,0,3,52,27,1
+Sanlúcar de Barrameda,Cádiz,3,6237,1,2,0,0,3
+Sanlúcar la Mayor,Sevilla,17,7497,1,16,0,1,0
+Sant Feliu de Llobregat,Barcelona,32,8509,0,6,25,2,3
+Santa Coloma de Farnés,Girona,29,10670,0,13,12,0,0
+Santa María de Nieva,Segovia,53,6669,0,9,46,0,17
+Santafé,Granada,18,6503,1,5,13,1,0
+Santander,Santander,6,8199,1,0,39,0,0
+Santiago,Coruña,5,9298,1,0,4,504,0
+Santo Domingo de la Calzada,Logroño,23,4251,1,19,3,30,49
+Sariñena,Huesca,32,4901,0,6,31,0,212
+Sarria,Lugo,6,6882,0,3,4,980,21
+Sedano,Burgos,25,3401,0,8,82,0,7
+Segorbe,Castellón,18,6035,1,5,12,4,41
+Segovia,Segovia,65,10729,1,12,71,1,10
+Segura,Teruel,51,6194,0,8,46,1,19
+Segura de la Sierra,Jaén,11,4644,0,11,0,6,3
+Seo de Urgel,Lérida,46,6192,1,6,101,17,6
+Sepúlveda,Segovia,63,7082,0,25,55,4,55
+Sequeros,Salamanca,47,7658,0,25,46,0,6
+Sevilla,Sevilla,25,38223,1,24,1,1,12
+Sigüenza,Guadalajara,51,5543,1,18,49,0,38
+Solsona,Lérida,29,5725,1,10,16,15,0
+Sorbas,Almería,10,5766,0,10,2,0,2
+Soria,Soria,106,10868,1,13,145,0,291
+Sort,Lérida,36,4401,0,11,107,5,4
+Sos,Zaragoza,25,4595,0,10,18,0,10
+Sueca,Valencia,6,7163,0,5,1,0,10
+Tabeiros,Pontevedra,3,8995,0,1,348,157,1
+Tafalla,Navarra,28,8769,2,20,25,0,61
+Talavera de la Reina,Toledo,32,9043,0,22,13,1,51
+Tamarite,Huesca,18,5434,0,12,9,7,83
+Tarancón,Cuenca,21,7118,0,21,0,1,1
+Tarazona,Zaragoza,18,4616,1,7,10,0,15
+Tarragona,Tarragona,13,6485,1,3,12,5,15
+Tarrasa,Barcelona,23,10231,0,5,17,5,2
+Teruel,Teruel,33,6421,1,9,23,3,27
+Toledo,Toledo,13,7507,1,3,9,1,0
+Tolosa,Guipuzcoa,40,7762,0,31,26,0,2
+Tordesillas,Valladolid,32,5962,0,18,14,2,30
+Toro,Zamora,26,7038,1,6,19,0,20
+Torrecilla de Cameros,Logroño,30,3670,0,28,2,15,51
+Torrelaguna,Madrid,46,4904,0,20,32,1,6
+Torrelavega,Santander,17,6351,0,6,80,11,1
+Torrente,Valencia,15,7360,0,6,9,0,9
+Torrijos,Toledo,26,8115,0,20,6,0,1
+Torrox,Málaga,11,6831,0,11,0,0,0
+Tortosa,Tarragona,22,14279,2,11,9,2,20
+Totana,Murcia,5,6151,0,5,0,7,2
+Tremp,Lérida,39,5965,0,13,109,5,5
+Trujillo,Cáceres,19,7135,1,15,4,0,2
+Tudela,Navarra,22,9730,3,17,5,0,17
+Tuy,Pontevedra,7,11796,1,1,420,137,7
+Ugíjar,Granada,17,6541,0,2,15,1,1
+Utrera,Sevilla,5,7902,0,5,0,0,6
+Valdeorras,Orense,7,6151,0,1,114,36,53
+Valdepeñas,Ciudad Real,7,6662,0,7,0,0,1
+Valderrobres,Teruel,16,4575,0,15,1,0,6
+Valencia,Valencia,16,31170,1,2,13,0,134
+Valencia de Alcántara,Cáceres,8,3736,0,2,7,0,7
+Valencia de Don Juan,León,35,7556,0,28,52,5,76
+Valladolid,Valladolid,17,12506,1,12,4,3,32
+Valls,Tarragona,20,7531,0,10,15,2,15
+Valmaseda,Vizcaya,21,6095,1,4,37,190,3
+Valoria la Buena,Valladolid,26,4188,0,21,5,1,73
+Valverde del Camino,Huelva,13,8187,0,13,0,13,15
+Vendrell,Tarragona,26,5823,0,5,28,2,31
+Vera,Almería,9,10634,2,5,3,2,0
+Vergara,Guipuzcoa,15,7733,0,15,36,0,3
+Verín,Orense,8,7500,0,6,137,18,33
+Viana del Bollo,Orense,5,4553,0,4,95,19,82
+Vich,Barcelona,50,11498,1,5,21,0,1
+Viella,Lérida,19,2285,0,7,24,7,0
+Vigo,Pontevedra,6,11551,1,2,426,164,0
+Villacarriedo,Santander,13,5207,0,4,62,0,0
+Villacarrillo,Jaén,9,7644,0,9,0,2,3
+Villadiego,Burgos,38,4116,0,7,87,1,4
+Villafranca del Bierzo,León,21,8754,0,7,123,39,5
+Villafranca del Penedés,Barcelona,29,9588,0,7,25,0,3
+Villajoyosa,Alicante,6,5661,0,6,0,0,0
+Villalba,Lugo,5,7456,0,1,4,1111,6
+Villalpando,Zamora,29,6163,0,12,17,0,40
+Villalón de Campos,Valladolid,37,6733,0,25,12,1,62
+Villanueva de la Serena,Badajoz,6,5488,1,5,0,1,0
+Villanueva de los Infantes,Ciudad Real,16,5808,0,16,0,1,1
+Villar del Arzobispo,Valencia,10,3485,0,6,4,3,3
+Villarcayo,Burgos,28,11582,0,87,251,13,1
+Villareal,Castellón,7,5269,0,5,2,0,20
+Villaviciosa,Oviedo,3,6696,0,2,250,0,73
+Villena,Alicante,6,4696,1,3,2,0,0
+Vinaroz,Castellón,6,6632,1,5,0,0,11
+Vitigudino,Salamanca,46,9826,0,20,40,0,2
+Vitoria,Álava,47,12149,1,50,245,1,6
+Viver,Castellón,24,6473,0,9,15,3,63
+Vivero,Lugo,6,7972,0,1,5,842,13
+Vélez-Málaga,Málaga,12,9715,1,8,3,0,3
+Vélez-Rubio,Almería,5,5721,0,5,0,4,1
+Yecla,Murcia,2,5443,0,2,0,2,0
+Yeste,Albacete,8,5199,0,8,0,44,0
+Zafra,Badajoz,10,6642,0,10,0,0,3
+Zamora,Zamora,43,9233,1,7,44,0,16
+Zaragoza,Zaragoza,24,19884,1,4,22,0,15
+Ágreda,Soria,64,6799,0,13,84,0,239
+Álora,Málaga,6,6338,0,6,0,0,12
+Ávila,Ávila,77,9492,1,5,98,0,22
+Écija,Sevilla,3,10286,1,2,0,2,120
+Órdenes,Coruña,8,6045,0,1,6,1008,12
+Úbeda,Jaén,6,7232,1,5,0,0,3

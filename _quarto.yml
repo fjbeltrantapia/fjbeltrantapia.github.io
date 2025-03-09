@@ -1,13 +1,9 @@
-# This file controls the settings for your Quarto template
-
-# website settings
 website:
   title: "Francisco J. Beltrán Tapia"                       
   description: "Economic history / Historical demography"   
   image: img/fran_pic.jpg                                   
   favicon: img/favicon_dark.png                             
   
-  # navigation bar at the top of the website
   navbar:
     pinned: true
     left:
@@ -19,12 +15,13 @@ website:
           - publications/pubs4.qmd
       - text: "Projects"
         href: projects/projects.qmd
+      - text: "Data"
+        href: datasets/datasets.qmd        
       - text: "Teaching"
         href: teaching/teaching.qmd
       - text: "Bio"
         href: bio/bio.qmd
     
-    # social media handles
     right:
       - icon: bank
         href: https://www.ntnu.edu/employees/francisco.beltran.tapia
@@ -36,9 +33,6 @@ website:
       - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/fjbeltrantapia.bsky.social
   
-  
-
-# Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
     type: textbox
@@ -46,7 +40,7 @@ website:
 project:
   type: website
   output-dir: docs
-
+  
   preview: 
     port: 22222
     browser: true
