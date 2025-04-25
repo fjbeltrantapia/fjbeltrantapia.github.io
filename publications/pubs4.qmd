@@ -2,21 +2,21 @@
 title: "Commons and agricultural Development"
 ---
 
-[Revisiting Allen's nitrogen hypothesis from a climate perspective (1645-1740)](https://repositori.uji.es/xmlui/bitstream/handle/10234/182881/DT-SEHA%201902.pdf?sequence=1&isAllowed=y) (Working Paper with José Luis Martínez-González).
+[Revisiting Allen's nitrogen hypothesis from a climate perspective (1645-1740)](https://repositori.uji.es/xmlui/bitstream/handle/10234/182881/DT-SEHA%201902.pdf?sequence=1&isAllowed=y){target="_blank"} (Working Paper with José Luis Martínez-González).
 
 [Communal hopes and land reform in rural Spain, 1931-1936] (with Iñaki Iriarte and José Miguel Lana).
 
-[En torno al comunal en España: Una agenda de investigación llena de retos y promesas](papers/en-torno-al-comunal-2018.pdf), in D. Soto Fernández and J.M. Lana Berasáin (eds.), *Del pasado al futuro como problema: La historia agraria contemporánea española en el siglo XXI* (Zaragoza: Prensas Universitarias de Zaragoza, 2018: 145–162) ([link](https://repositori.uji.es/xmlui/bitstream/handle/10234/176624/DT-SEHA-1804.pdf?sequence=1&isAllowed=y) to the working paper).
+[En torno al comunal en España: Una agenda de investigación llena de retos y promesas](../papers/en-torno-al-comunal-2018.pdf){target="_blank"}, in D. Soto Fernández and J.M. Lana Berasáin (eds.), *Del pasado al futuro como problema: La historia agraria contemporánea española en el siglo XXI* (Zaragoza: Prensas Universitarias de Zaragoza, 2018: 145–162) ([link](https://repositori.uji.es/xmlui/bitstream/handle/10234/176624/DT-SEHA-1804.pdf?sequence=1&isAllowed=y) to the working paper).
 
-[Common lands and economic development in Spain](papers/commons-development-2016.pdf), *Revista de Historia Económica - Journal of Iberian and Latin American Economic History* 34, 1 (2016): 111–133.
+[Common lands and economic development in Spain](../papers/commons-development-2016.pdf){target="_blank"}, *Revista de Historia Económica - Journal of Iberian and Latin American Economic History* 34, 1 (2016): 111–133.
 
-[Commons and the standard of living debate in Spain, 1860-1930](papers/commons-heights-2015.pdf), *Cliometrica* 9, 1 (2015): 27–48.
+[Commons and the standard of living debate in Spain, 1860-1930](../papers/commons-heights-2015.pdf){target="_blank"}, *Cliometrica* 9, 1 (2015): 27–48.
 
-["Goth and Vandals" or "Civilised" peasants? Common lands and agricultural productivity in Spain, 1900-1930](papers/commons-productivity-2015.pdf), *Social Science History* 39, 2 (2015): 217–252.
+["Goth and Vandals" or "Civilised" peasants? Common lands and agricultural productivity in Spain, 1900-1930](../papers/commons-productivity-2015.pdf){target="_blank"}, *Social Science History* 39, 2 (2015): 217–252.
 
-[Social and environmental filters to market incentives: Common land persistence in 19th century Spain](papers/persistence-commons-2015.pdf), *Journal of Agrarian Change* 15, 2 (2015): 239–260.
+[Social and environmental filters to market incentives: Common land persistence in 19th century Spain](../papers/persistence-commons-2015.pdf){target="_blank"}, *Journal of Agrarian Change* 15, 2 (2015): 239–260.
 
-[Enclosing literacy? Common lands and human capital in Spain, 1860-1930](papers/enclosing-literacy-2013.pdf), *Journal of Institutional Economics* 9, 4 (2013): 491–515.
+[Enclosing literacy? Common lands and human capital in Spain, 1860-1930](../papers/enclosing-literacy-2013.pdf){target="_blank"}, *Journal of Institutional Economics* 9, 4 (2013): 491–515.
 
-[Commons, Social Capital and the Emergence of Agricultural Cooperatives in Early 20th Century Spain](papers/commons-cooperatives-2012.pdf), *European Review of Economic History* 16 (2012): 511–528.
+[Commons, Social Capital and the Emergence of Agricultural Cooperatives in Early 20th Century Spain](../papers/commons-cooperatives-2012.pdf){target="_blank"}, *European Review of Economic History* 16 (2012): 511–528.
 

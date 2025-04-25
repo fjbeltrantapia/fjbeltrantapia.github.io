@@ -2,12 +2,12 @@
 title: "Population, inequality and economic growth"
 ---
 
-[The Spanish municipal population database (ESPOP) 1860-1930](papers/esparel-2023.pdf), *Revista de Demografía Histórica – Journal of Iberoamerican Population Studies* 41, 1 (2023): 133–174. (with Alfonso Díez-Minguela, Julio Martínez-Galarraga and Daniel Tirado-Fabregat) 
+[The Spanish municipal population database (ESPOP) 1860-1930](../papers/esparel-2023.pdf){target="_blank"}, *Revista de Demografía Histórica – Journal of Iberoamerican Population Studies* 41, 1 (2023): 133–174. (with Alfonso Díez-Minguela, Julio Martínez-Galarraga and Daniel Tirado-Fabregat) 
 
-[The roots of land inequality in Spain](roots-inequality-2021.pdf) (Working Paper with Alfonso Díez-Minguela, Julio Martínez-Galarraga and Daniel Tirado-Fabregat).
+[The roots of land inequality in Spain](../roots-inequality-2021.pdf){target="_blank"} (Working Paper with Alfonso Díez-Minguela, Julio Martínez-Galarraga and Daniel Tirado-Fabregat).
 
-[The shadow of cities: size, location and the long-term spatial distribution of population in Spain](papers/shadows-cities-2021.pdf), *The Annals of Regional Science* 66 (2021): 729–753 (with Julio Martínez-Galarraga and Alfonso Díez-Minguela).
+[The shadow of cities: size, location and the long-term spatial distribution of population in Spain](../papers/shadows-cities-2021.pdf){target="_blank"}, *The Annals of Regional Science* 66 (2021): 729–753 (with Julio Martínez-Galarraga and Alfonso Díez-Minguela).
 
-[Inequality and growth in a developing economy: Evidence from regional data (Spain, 1860-1930)](papers/inequality-growth-2020.pdf), *Social Science History* 44, 1 (2020): 169–-192 (with Julio Martínez-Galarraga).
+[Inequality and growth in a developing economy: Evidence from regional data (Spain, 1860-1930)](../papers/inequality-growth-2020.pdf){target="_blank"}, *Social Science History* 44, 1 (2020): 169–-192 (with Julio Martínez-Galarraga).
 
-[Tracing the Evolution of Agglomeration Economies: Spain, 1860-1991](papers/tracing-agglomeration-2018.pdf), *Journal of Economic History* 78, 1 (2018): 81–117 (with Alfonso Díez-Minguela and Julio Martínez-Galarraga).
+[Tracing the Evolution of Agglomeration Economies: Spain, 1860-1991](../papers/tracing-agglomeration-2018.pdf){target="_blank"}, *Journal of Economic History* 78, 1 (2018): 81–117 (with Alfonso Díez-Minguela and Julio Martínez-Galarraga).

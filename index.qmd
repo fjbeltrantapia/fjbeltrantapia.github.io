@@ -28,11 +28,11 @@ My teaching seeks to promote the use of quantitative and computational methods (
 :::
 
 :::{.column-body}
-[What was in a name? Culture, naming practices and literacy](https://cepr.org/publications/dp19625) (Working Paper with Francisco J. Marco-Gracia)
+[What was in a name? Culture, naming practices and literacy](papers/names-education-2024.pdf){target="_blank"} (Working Paper with Francisco J. Marco-Gracia)
 
-[Culture, economic stress and missing girls](papers/sr-culture-2024.pdf) (Working Paper with Viktor Malein and Tamar Matiashvili)
+[Culture, economic stress and missing girls](papers/sr-culture-2024.pdf){target="_blank"} (Working Paper with Viktor Malein and Tamar Matiashvili)
 
-[Pre-natal care, son preference and the sex ratio at birth](papers/prenatal-care-2025.pdf), *Demography* 62, 1 (2025): 211–236 (with Rebeca Echavarri)
+[Pre-natal care, son preference and the sex ratio at birth](papers/prenatal-care-2025.pdf){target="_blank"}, *Demography* 62, 1 (2025): 211–236 (with Rebeca Echavarri)
 
-[Missing girls in Liberal Italy, 1861-1921](papers/sr-italy-2024.pdf), *The Economic History Review* 77, 1 (2024): 185–211 (with Gabriele Cappelli)
+[Missing girls in Liberal Italy, 1861-1921](papers/sr-italy-2024.pdf){target="_blank"}, *The Economic History Review* 77, 1 (2024): 185–211 (with Gabriele Cappelli)
 :::
