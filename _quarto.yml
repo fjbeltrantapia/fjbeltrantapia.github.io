@@ -14,7 +14,9 @@ website:
           - publications/pubs3.qmd
           - publications/pubs4.qmd
       - text: "Projects"
-        href: projects/projects.qmd
+        menu:
+          - projects/names.qmd    
+          - projects/missing-girls.qmd
       - text: "Data"
         href: datasets/datasets.qmd        
       - text: "Teaching"
