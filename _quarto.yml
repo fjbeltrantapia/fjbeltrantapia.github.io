@@ -62,7 +62,7 @@ format:
     toc: false
     code-link: true
     anchor-sections: true
-    fig-cap-location: margin
+    fig-cap-location: bottom
     reference-location: margin
     footnotes-hover: true
     link-external-newwindow: true
