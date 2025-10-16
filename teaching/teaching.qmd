@@ -2,11 +2,11 @@
 title: "Teaching"
 ---
 
-HIKU8863: [Quantitative Methods for Historians](https://www.ntnu.edu/studies/courses/HIKU8863#tab=omEmnet) (MA/PhD)
+HIKU8863: [Quantitative Methods for Historians](https://fjbeltrantapia.github.io/quantitative-methods-for-historians/) (MA/PhD)
 
-HIST8872: [Digital Mapping for the Humanities and the Social Sciences](https://www.ntnu.edu/studies/courses/HIST8872/2023/1#tab=omEmnet) (MA/PhD)
+HIST8872: [Digital Mapping for the Humanities and the Social Sciences](https://fjbeltrantapia.github.io/digital-mapping/) (MA/PhD)
 
-HIST2025: [Computational History](https://www.ntnu.edu/studies/courses/HIST2025#tab=omEmnet) (BA)
+HIST2025: [Computational History](https://fjbeltrantapia.github.io/computational-history/) (BA)
 
 HIST1505/1515: [Introduction to Historical Theory and Methods](https://www.ntnu.edu/studies/courses/HIST1505/2023/1#tab=omEmnet) (BA)
 
