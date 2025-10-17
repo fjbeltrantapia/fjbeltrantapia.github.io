@@ -21,10 +21,10 @@ about:
 
 I am a Professor of Economic History at the [Norwegian University of Science and Technology](https://www.ntnu.edu/employees/francisco.beltran.tapia). Working at the intersection between economic history and historical demography, my research explores the dimensions that shaped parents' investments on children's health and education. Other research interest include inequality, gender discrimination, migration, collective resources and population growth. 
 
-My teaching seeks to promote the use of quantitative and computational methods (descriptive statistics, regression analysis, digital mapping, automated textual analysis, etc.) among historians.
+My [teaching](teaching/teaching.html) seeks to promote the use of quantitative and computational methods (descriptive statistics, regression analysis, digital mapping, automated textual analysis, etc.) among historians.
 
 ::: {#about-block}
-## Most recent work
+## Recent research
 :::
 
 :::{.column-body}
