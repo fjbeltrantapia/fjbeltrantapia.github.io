@@ -12,7 +12,7 @@ HIST1505/1515: [Introduction to Historical Theory and Methods](https://www.ntnu.
 
 ----
 
-I also teach the PhD course **Quantifying History** for the [Norwegian Research School in History](https://www.hf.uio.no/iakh/english/research/the-norwegian-graduate-school-in-history/courses/2025/advanced-research-course-ntnu.html) (in collaboration with [Gregory Fergusson-Cradler](https://gferguson.netlify.app)). I had also conducted several workshops on **GIS techniques** at the universities of Valencia, Barcelona, Zaragoza and Navarra.
+I also teach the PhD course **Quantifying History** for the [Norwegian Research School in History](https://www.hf.uio.no/iakh/english/research/the-norwegian-graduate-school-in-history/courses/2025/advanced-research-course-ntnu.html) (in collaboration with [Gregory Fergusson-Cradler](https://gferguson.netlify.app)). I have also conducted several workshops on **GIS techniques** at the Universities of Valencia, Barcelona, Zaragoza and Navarra.
 
 ----
 
